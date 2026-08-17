@@ -1,2 +1,26 @@
-Last updated: 2026-08-17 23:02:58 WIB
-Last updated: 2026-08-17 23:21:00 WIB
+# RentCar
+
+
+
+## 📋 Overview
+
+This repository contains **8 files** and is built with the following technologies:
+
+HTML
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-08-17 23:25:05 WIB*
